@@ -1,5 +1,7 @@
-<p align='center'><img src='https://img001.prntscr.com/file/img001/1X8Bn5yDTR-R8O-sRzfWfw.png'></p><br>
-Studying To Become Fullstack.
+<p align='center'>
+    <img src='https://img001.prntscr.com/file/img001/1X8Bn5yDTR-R8O-sRzfWfw.png'><br>
+    Studying To Become Fullstack.
+</p>
 
 <h3 align='center'>Skills</h3>
 

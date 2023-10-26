@@ -1,4 +1,4 @@
-<h1 align='center'>Israel Macedo</h1>
+<h1 align='center'><img src='https://img001.prntscr.com/file/img001/1X8Bn5yDTR-R8O-sRzfWfw.png'></h1>
 
 <h3 align='center'>Skills</h3>
 

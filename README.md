@@ -1,7 +1,7 @@
 <p align='center'>
     <img src='https://img001.prntscr.com/file/img001/1X8Bn5yDTR-R8O-sRzfWfw.png'><br>
-    Studying To Become Fullstack.
-</p>
+    <b>Studying To Become Fullstack.</b>
+</p><br>
 
 <h3 align='center'>Skills</h3>
 
@@ -38,7 +38,7 @@
     Projeto #21&nbsp;&nbsp;&nbsp;&nbsp;
 </p><br>
 
-<h3 align='center'>Contact</h3>
+<h3 align='center'>Contact For Jobs</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/israel-macedo-008177269/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="48"></a>

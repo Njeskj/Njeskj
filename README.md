@@ -54,5 +54,5 @@ exit</p>
 
 
     TESTE
-    ![VSCode](https://prnt.sc/61oI2yPJR0mh)&nbsp;
+    [VSCode](https://prnt.sc/61oI2yPJR0mh)&nbsp;
 

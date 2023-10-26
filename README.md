@@ -39,6 +39,7 @@ pause >nul<br>
 goto :start<br>
 <br>
 :fimpt<br>
+
 echo Tarefa concluída com sucesso. Obrigado por usar este script.<br>
 pause >nul<br>
 exit<br>
@@ -47,3 +48,11 @@ exit<br>
 echo Task completed successfully. Thank you for using this script.<br>
 pause >nul<br>
 exit</p>
+
+
+
+
+
+    TESTE
+    ![VSCode]([https://exemplo.com/logo.png](https://camo.githubusercontent.com/6c86cd9552825dfd3b86938682229e652504d511a894f87987db07c38c335a1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343266c6162656c436f6c6f723d304431313137)
+

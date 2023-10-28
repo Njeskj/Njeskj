@@ -26,17 +26,44 @@
 
 <h3 align='center'>Projects</h3>
 
-<p align="center">
-    <a href="https://github.com/Njeskj/Projeto-2" target="_blank"><img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-project.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Njeskj/Projeto-10" target="_blank"><img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-project.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Njeskj/Projeto-11" target="_blank"><img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-project.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Njeskj/Projeto_21" target="_blank"><img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-project.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <br>
-    Projeto #2&nbsp;&nbsp;&nbsp;&nbsp;
-    Projeto #10&nbsp;&nbsp;&nbsp;&nbsp;
-    Projeto #11&nbsp;&nbsp;&nbsp;&nbsp;
-    Projeto #21&nbsp;&nbsp;&nbsp;&nbsp;
-</p><br>
+<table align='center'>
+    <tr><th colspan="5"><a href="https://github.com/Njeskj/Projeto-0" target="_blank">Projeto #0</a></th></tr>
+    <tr>
+        <td><a href="https://github.com/Njeskj/Projeto-1" target="_blank">Projeto #1</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-2" target="_blank">Projeto #2</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto_3" target="_blank">Projeto #3</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-4" target="_blank">Projeto #4</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-5" target="_blank">Projeto #5</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Njeskj/Projeto-6" target="_blank">Projeto #6</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-7" target="_blank">Projeto #7</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-8" target="_blank">Projeto #8</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-9" target="_blank">Projeto #9</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-10" target="_blank">Projeto #10</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Njeskj/Projeto-11-delivery" target="_blank">Projeto #11</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-12" target="_blank">Projeto #12</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-13" target="_blank">Projeto #13</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-14" target="_blank">Projeto #14</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-15" target="_blank">Projeto #15</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Njeskj/Projeto-16" target="_blank">Projeto #16</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-17" target="_blank">Projeto #17</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-18" target="_blank">Projeto #18</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-19" target="_blank">Projeto #19</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-20" target="_blank">Projeto #20</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Njeskj/Projeto_21" target="_blank">Projeto #21</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 <h3 align='center'>Contact For Jobs</h3>
 

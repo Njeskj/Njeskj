@@ -58,9 +58,9 @@
     </tr>
     <tr>
         <td><a href="https://github.com/Njeskj/Projeto_21" target="_blank">Projeto #21</a></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td><a href="https://github.com/Njeskj/Projeto-22" target="_blank">Projeto #22</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-23" target="_blank">Projeto #23</a></td>
+        <td><a href="https://github.com/Njeskj/Projeto-24" target="_blank">Projeto #24</a></td>
         <td></td>
     </tr>
 </table>

@@ -2,7 +2,8 @@
     <b>Software Developer</b>
 </p><br><br>
 
-<p align='center'>👨‍💻 All of my projects are available at [https://github.com/Njeskj](https://github.com/Njeskj)</p><br><br>
+<p align='center'>👨‍💻 All of my projects are available at
+    https://github.com/Njeskj</p><br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

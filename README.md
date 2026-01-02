@@ -2,8 +2,6 @@
     <b>Software Developer</b>
 </p><br><br>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p><br>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Njeskj](https://github.com/Njeskj)
 
 <h3 align="center">Connect with me:</h3>

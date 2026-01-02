@@ -1,19 +1,10 @@
 <p align='center'>
-    <img src='https://img001.prntscr.com/file/img001/1X8Bn5yDTR-R8O-sRzfWfw.png'><br>
-    <b>Web Developer</b>
+    <b>Software Developer</b>
 </p><br><br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njeskj" alt="njeskj" /></a> </p><br>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p><br>
 
-- 🔭 I’m currently working on [Order System](https://github.com/Njeskj/Projeto37)
-
-- 🌱 I’m currently learning **Java**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Njeskj](https://github.com/Njeskj)
-
-- 💬 Ask me about **PHP**<br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
